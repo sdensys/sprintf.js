@@ -45,8 +45,8 @@ in the order in which they are listed here:
 
 If a parameter in the format string is invalid, it is ignored (not printed to the output string). 
 
-_args_    - array with all arguments.
-The function returns the resulting string
+_args_    - array with all arguments.  
+
 Each argument in the array corresponds to the next parameter in the format string.  
 If an array element is undefined for any parameter, it is ignored (not printed to the output string).  
 
