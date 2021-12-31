@@ -1,3 +1,5 @@
+/* sprintf.js (C) 2021-present Denys Savchenko -- https://github.com/sdensys */
+
 var sprintf=function(fmt,arg){
 	var f=String(fmt),i,j=0,n=f.length,s="",t;
 	for (i=0; i<n; i++){
