@@ -1,5 +1,5 @@
 # sprintf.js
-A variant of a loose implementation of the sprintf() PHP-function for JavaScript 
+A variant of a simple implementation of the sprintf() PHP-function for JavaScript 
 
 ## Format:
 String __sprintf__ (String _format_, Array _args_);
